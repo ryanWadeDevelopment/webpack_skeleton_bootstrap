@@ -1,0 +1,1 @@
+(()=>{"use strict";alert("Hello from webpack"),alert("Hello from app.js")})();
